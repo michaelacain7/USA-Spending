@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data files (generated at runtime)
+*.json
+!package.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
