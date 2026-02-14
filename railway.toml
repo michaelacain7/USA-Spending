@@ -1,7 +1,0 @@
-[build]
-builder = "nixpacks"
-
-[deploy]
-startCommand = "python contract_awards_monitor.py"
-restartPolicyType = "on-failure"
-restartPolicyMaxRetries = 10
